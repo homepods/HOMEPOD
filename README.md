@@ -7,6 +7,9 @@ Build something extraordinary
 HOMEPOD® is a product which helps self-builders to evaluate, design and build, sustainable homes.
 The platform which we are building allows smart homes to transform, travel, reduce carbon, consume less energy and above all, to be self-sufficient in space.
 
+[![HOMEPOD.EU video](https://github.com/homepods/homepod/blob/master/homepod-video.png?raw=true)](https://player.vimeo.com/video/299248863)
+
+
 <b>Colour</b></br>
 Colour has an ability to influence our mood and our dealings with others. Identifying products by using their colour as a primary filter.
 
@@ -36,3 +39,10 @@ Building a sustainable culture is hard work. To develop trust with local produce
 Our mission is to create buildings which build, maintain and recycle autonomously. This will help people to live healthy and to reduce their carbon footprint, so they can colonise other planets with greater efficiency.
 
 <b> HOMEPOD® is a robotic process automation software which assembles sustainable homes. Our platform enables autonomous manufacturing, in land or in space.</b></br>
+
+[![HOMEPOD.EU video](https://github.com/homepods/homepod/blob/master/homepod-video.png?raw=true)](https://player.vimeo.com/video/299248863)
+
+Please visit https://homepod.eu for more information and how to help me.
+If you want to support me, I am also making hand made toys here https://homepod.eu/play
+
+Let's save the world!
