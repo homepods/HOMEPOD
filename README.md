@@ -1,3 +1,5 @@
+![Future Homes](https://github.com/homepods/homepod/blob/master/DRONE-01-edit.jpg?)
+
 # HOMEPOD
 
 Build something extraordinary
@@ -24,7 +26,7 @@ BIG data is complex and most often mistakes happen. In depth analysis of product
 The brain of the building learns to automate the buildings in mobility and space efficiency. Great for smart cities and outer space colonies.
 
 
-![alt text](https://github.com/homepods/homepod/blob/master/homepod-marca.jpg)
+![Homepod Logo](https://github.com/homepods/homepod/blob/master/homepod-marca.jpg)
 
 
 <b>Our commitment to power sustainability through social responsibility.</b></br>
