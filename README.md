@@ -1,4 +1,4 @@
-![Future Homes](https://github.com/homepods/homepod/blob/master/DRONE-01-edit.jpg?)
+![Future Homes](https://github.com/homepods/homepod/blob/master/homepod-real.jpg?)
 
 # HOMEPOD
 
